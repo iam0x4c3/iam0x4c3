@@ -4,7 +4,7 @@
 <br><br>
   <div align="center">
 <pre align="left">
-   [+] Web and system pentester <br>
+   [+] Web and network pentester <br>
    [+] Web3 security researcher<br>
    [+] Offsec Certified Script Kiddie
 </pre>
